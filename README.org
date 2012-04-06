@@ -16,5 +16,4 @@ python26 stats.py -h
 
 3- cluster.ini file describes the cluster ssh/REST information.
 Ini file example : 
-http://friendpaste.com/6hLNVrepFBiVFB8Ro5ZyVG
-
+sample.ini
